@@ -1,0 +1,14 @@
+{
+  "name": "prompt-enhancer",
+  "description": "Mods for Claude Code by Anant.",
+  "owner": {
+    "name": "Anant"
+  },
+  "plugins": [
+    {
+      "name": "prompt-enhancer",
+      "source": "./",
+      "description": "An Enhance prompt button above the prompt box that rewrites your draft into a clearer prompt, with Undo."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "prompt-enhancer",
+  "version": "0.1.0",
+  "description": "An Enhance prompt button above the prompt box that rewrites your draft into a clearer prompt, with Undo.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Anant"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/anant-acog/prompt-enhancer",
+  "keywords": [
+    "prompt",
+    "enhance",
+    "ui",
+    "mod"
+  ]
+}
